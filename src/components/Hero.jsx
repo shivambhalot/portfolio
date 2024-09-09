@@ -37,9 +37,8 @@ function Hero() {
                           initial="hidden"
                           animate="visible"
                           className='my-2 max-w-xl py-6 font-light tracking-tighter'>
-                          I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience,
-                          I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL,
-                          and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
+                          I am a passionate full stack developer with a knack for crafting robust and scalable web applications. 
+                          I have honed my skills in front-end technologies like React ,as well as back-end technologies like Node.js, MySQL. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
                         </motion.p>
                     </div>
                 </div>
